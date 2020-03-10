@@ -1,7 +1,7 @@
 export default {
   aowu: {
     test: {
-      btnContent: "aowu~"
+      btnContent: "{name}:aowu~"
     }
   }
 };

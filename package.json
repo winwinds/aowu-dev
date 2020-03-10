@@ -1,6 +1,6 @@
 {
   "name": "aowu-dev",
-  "version": "0.1.12",
+  "version": "0.1.14",
   "private": false,
   "main": "/src/index.js",
   "typings": "types/index.d.ts",
