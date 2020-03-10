@@ -1,8 +1,8 @@
 <template>
   <section>
-    <button @click="setLang('zh-CN')">中文</button>
-    <button @click="setLang('en')">英文</button>
-    <button>{{ t('aowu.test.btnContent') }}</button>
+    <button class="aowu-button_primary" @click="setLang('zh-CN')">中文</button>
+    <button class="aowu-button_primary" @click="setLang('en')">英文</button>
+    <button class="aowu-button_primary">{{ t('aowu.test.btnContent') }}</button>
   </section>
 
   <!-- <button>{{ t('aowu.test.btnContent') }}</button> -->
